@@ -1,21 +1,9 @@
-Käyttäjä
-Äänestys
+Sovelluksessa on kaksi erilaista käyttäjätyyppiä: tavallisia käyttäjiä ja ylläpitäjiä. 
 
-Tee uusi äänestys
+Sovelluksen toimintaperiaate on seuraava:
 
-
-Selaa äänestyksiä
-Äänestykset
-
-
-
-
-
-
-Ylläpitäjä
-Valitse äänestys
-Poista äänestys
-
-
-Katso äänestystilanne
-Äänestä
+Käyttäjä voi sovelluksen etusivulla selailla muiden käyttäjien tekemiä äänestyksiä.
+Käyttäjä voi valita äänestyksen ja katsoa äänestystilanteen.
+Käyttäjä voi valita äänestyksen ja käydä äänestämässä valitsemaansa äänestystä.
+Ylläpitäjä voi tehdä uusia äänestyksiä muiden äänestettäväksi.
+Ylläpitäjä voi poistaa äänestyksiä.
